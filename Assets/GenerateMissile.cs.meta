@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3bd4047210eaf8743981888b730c5159
+timeCreated: 1498072558
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prefabs: {fileID: 1658941941876004, guid: 11f2a83bf7173d94fa8d0f1cdf7617b3, type: 2}
+  - generate: {instanceID: 0}
+  - gunSound: {fileID: 8300000, guid: 9b5631a00be40d04f8bcf74ce2f438ba, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
